@@ -8,4 +8,4 @@ Real Time Implementation of Virtual Mouse using Computer Vision
 4) Numpy <br>
 
 <h1>WHAT'S INCLUDED IN THIS REPOSITORY:</h1>
- 
+1) <b>handTrackingModule.py</b> This module is used to detect the hands, to identify and draw their landmarks and to detect their positions. 
