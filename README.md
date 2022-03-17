@@ -19,3 +19,6 @@ Real Time Implementation of Virtual Mouse using Computer Vision
 <h1>WHAT'S INCLUDED IN THIS REPOSITORY ?</h1>
 1) <b>handTrackingModule.py</b> <p>This module is used for the detection of hands, to identify their landmarks and to detect their positions.</p>
 2) <b>virtual_mouse.py</b> <p> This is the main module used is for the real time implementation of virtual mouse, by utilizing handTrackingModule.py.</p>
+
+<h1>VIDEO DEMO:</h1>
+https://drive.google.com/file/d/1MfvZ1jSLdncAgq_Wnb-7ruPF7NvlRuc3/view?usp=sharing
